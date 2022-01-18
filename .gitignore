@@ -1,0 +1,17 @@
+node_modules
+.env
+
+#Hardhat files
+cache
+artifacts
+deployments
+exports
+typechain-types
+
+#Waffle
+build
+flattened
+
+#Plugins
+coverage
+coverage.json
